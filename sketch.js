@@ -12,7 +12,7 @@ function preload(){
   
   jungleimg = loadImage("jungle.jpg");
   stoneimg = loadImage("stone.png");
-  bananaimg = loadImage("Banana.png");
+  bananaimg = loadImage("banana.png");
   restartimg = loadImage("gameOver.png");
   gameimg = loadImage("gameOver.png");
   monkey_still=loadImage("Monkey_03.png");
